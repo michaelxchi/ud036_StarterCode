@@ -1,0 +1,11 @@
+Installation:
+
+install Python on the computer system, update system path with Python.
+
+Download:
+
+download all files into a same directory
+
+Launching MovieTrailer webpage:
+
+python entertainment_center.py
